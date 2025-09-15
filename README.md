@@ -17,14 +17,14 @@ Always learning and improving every day 🚀
 ---
 
 ## 📈 My GitHub Stats | آمار GitHub من
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirhosseinRostayi1&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhosseinRostayi1&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirhosseinRostayi&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhosseinRostayi&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 Connect with me | راه‌های ارتباطی
-- 🔗 [LinkedIn](https://linkedin.com/in/AmirhosseinRostayi1)  
-- 📷 [Instagram](https://instagram.com/AmirhosseinRostayi1)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/amirhossein-rostayi-0a7442317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 📷 [Instagram](https://www.instagram.com/arweb_academy?igsh=cDl2a3I0M3BtZGtq)  
 
 ---
 
