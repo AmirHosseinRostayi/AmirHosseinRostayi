@@ -48,14 +48,30 @@ I enjoy turning ideas into functional user experiences while continuously improv
 
 ## ⚡ GitHub Activity
 
+## `// GITHUB_ACTIVITY`
+
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-view.svg"
-  width="100%"
-  alt="Amirhossein's GitHub 3D Contribution Graph">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./dist/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./dist/github-snake.svg"
+  />
+
+  <img
+    src="./dist/github-snake.svg"
+    width="100%"
+    alt="Amirhossein's GitHub Contribution Snake"
+  />
+
+</picture>
 
 </div>
-
 
 ## 🚀 Featured Projects
 
