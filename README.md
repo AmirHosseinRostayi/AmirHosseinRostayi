@@ -46,13 +46,16 @@ I enjoy turning ideas into functional user experiences while continuously improv
 
 </div>
 
-## 📊 GitHub Contributions
+## ⚡ GitHub Activity
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub Contribution Graph">
+<img src="./profile-3d-contrib/profile-night-view.svg"
+  width="100%"
+  alt="Amirhossein's GitHub 3D Contribution Graph">
 
 </div>
+
 
 ## 🚀 Featured Projects
 
