@@ -13,7 +13,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: AmirHosseinRostayi
@@ -22,8 +27,16 @@ jobs:
             dist/github-snake.svg?color_snake=#00FF88&color_dots=#0A0F0D,#0E3B2A,#0FA968,#00D978,#00FF88
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#00FF88&color_dots=#0A0F0D,#0E3B2A,#0FA968,#00D978,#00FF88
 
-      - name: Push generated files
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: "dist"
-          message: "Update contribution snake"
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add dist/
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update contribution snake"
+            git push
+          fi
