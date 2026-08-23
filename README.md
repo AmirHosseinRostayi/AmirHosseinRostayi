@@ -46,6 +46,13 @@ I enjoy turning ideas into functional user experiences while continuously improv
 
 </div>
 
+## 📊 GitHub Contributions
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub Contribution Graph">
+
+</div>
 
 ## 🚀 Featured Projects
 
