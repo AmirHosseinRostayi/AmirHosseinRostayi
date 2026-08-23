@@ -1,0 +1,38 @@
+<svg width="900" height="360" viewBox="0 0 900 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="360" rx="18" fill="#05070A"/>
+  <rect x="1" y="1" width="898" height="358" rx="17" stroke="#00FF88" stroke-opacity="0.45"/>
+
+  <circle cx="32" cy="32" r="7" fill="#FF5F56"/>
+  <circle cx="55" cy="32" r="7" fill="#FFBD2E"/>
+  <circle cx="78" cy="32" r="7" fill="#27C93F"/>
+
+  <text x="35" y="92" fill="#00FF88" font-family="monospace" font-size="18">
+    $ ./engineering-portfolio
+  </text>
+
+  <text x="35" y="142" fill="#FFFFFF" font-family="monospace" font-size="28" font-weight="bold">
+    ENGINEERING PORTFOLIO
+  </text>
+
+  <text x="35" y="180" fill="#8B949E" font-family="monospace" font-size="16">
+    Personal portfolio &amp; development journey
+  </text>
+
+  <text x="35" y="230" fill="#00FF88" font-family="monospace" font-size="15">
+    STATUS
+  </text>
+  <text x="155" y="230" fill="#C9D1D9" font-family="monospace" font-size="15">
+    ACTIVE
+  </text>
+
+  <text x="35" y="258" fill="#00FF88" font-family="monospace" font-size="15">
+    TYPE
+  </text>
+  <text x="155" y="258" fill="#C9D1D9" font-family="monospace" font-size="15">
+    WEB DEVELOPMENT
+  </text>
+
+  <text x="35" y="310" fill="#00FF88" font-family="monospace" font-size="15">
+    [ OPEN REPOSITORY → ]
+  </text>
+</svg>
