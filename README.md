@@ -38,33 +38,38 @@ I enjoy turning ideas into functional user experiences while continuously improv
 
 ### Front-End
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,jquery" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,jquery" alt="Frontend Skills" />
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmirHosseinRostayi&show_icons=true&hide_border=true&theme=radical" height="180" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/overview.dark.svg">
+  <img src="./profile/overview.light.svg" alt="GitHub Overview" width="100%">
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinRostayi&layout=compact&hide_border=true&theme=radical" height="180" />
+<br><br>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/contributions.dark.svg">
+  <img src="./profile/contributions.light.svg" alt="GitHub Contributions and Streak" width="100%">
+</picture>
 
----
+<br><br>
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=AmirHosseinRostayi&hide_border=true&theme=radical" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/languages.dark.svg">
+  <img src="./profile/languages.light.svg" alt="GitHub Languages" width="100%">
+</picture>
 
 </div>
 
@@ -72,21 +77,27 @@ I enjoy turning ideas into functional user experiences while continuously improv
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 💼 Engineering Portfolio
 
-<a href="https://github.com/AmirHosseinRostayi/engineering-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirHosseinRostayi&repo=engineering-portfolio&theme=radical&hide_border=true" />
-</a>
+A personal portfolio project focused on showcasing my skills, work, and frontend development journey.
 
-<a href="https://github.com/AmirHosseinRostayi/Project-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirHosseinRostayi&repo=Project-AI&theme=radical&hide_border=true" />
-</a>
+[View Repository →](https://github.com/AmirHosseinRostayi/engineering-portfolio)
 
-<a href="https://github.com/AmirHosseinRostayi/Mini-Code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirHosseinRostayi&repo=Mini-Code&theme=radical&hide_border=true" />
-</a>
+---
 
-</div>
+### 🤖 Project AI
+
+An AI-related project built as part of my development journey and experimentation with modern web technologies.
+
+[View Repository →](https://github.com/AmirHosseinRostayi/Project-AI)
+
+---
+
+### 💻 Mini Code
+
+A collection of small coding projects, experiments, and frontend development practices.
+
+[View Repository →](https://github.com/AmirHosseinRostayi/Mini-Code)
 
 ---
 
