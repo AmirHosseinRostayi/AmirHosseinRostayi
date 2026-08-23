@@ -1,40 +1,92 @@
+<div align="center">
+
 # 👋 Hi, I'm Amirhossein
 
-### Front-End Developer | Web Enthusiast
+### Front-End Developer | React Developer
 
-I'm a **Front-End Developer** passionate about building modern, responsive, and user-friendly web interfaces.
+Building modern, responsive, and user-friendly web experiences.
 
-I enjoy learning new technologies, improving my skills, and turning ideas into clean and functional web experiences. 🚀
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/amirhossein-rostayi-0a7442317/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/arweb_academy/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AmirHosseinRostayi\&style=for-the-badge)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a **Front-End Developer** passionate about creating clean, modern, and responsive web interfaces.
+
+I enjoy turning ideas into functional user experiences while continuously improving my development skills.
+
+* 💻 Focused on **Front-End Development**
+* ⚛️ Working with **React & JavaScript**
+* 🎨 Interested in modern UI development
+* 🌱 Currently exploring **Backend Development**
+* 🎯 Long-term goal: Become a **Full-Stack Developer** with a strong focus on Backend Development
+* 🚀 Always learning and building
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+### Front-End
 
-### Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,jquery" />
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AmirHosseinRostayi&show_icons=true&hide_border=true&theme=radical" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinRostayi&layout=compact&hide_border=true&theme=radical" height="180" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=AmirHosseinRostayi&hide_border=true&theme=radical" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-I'm currently building and improving real-world projects to strengthen my frontend development skills.
+<div align="center">
 
-> More projects coming soon.
+<a href="https://github.com/AmirHosseinRostayi/engineering-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirHosseinRostayi&repo=engineering-portfolio&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/AmirHosseinRostayi/Project-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirHosseinRostayi&repo=Project-AI&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/AmirHosseinRostayi/Mini-Code">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirHosseinRostayi&repo=Mini-Code&theme=radical&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
@@ -43,36 +95,32 @@ I'm currently building and improving real-world projects to strengthen my fronte
 * ⚛️ Improving my React skills
 * 🟨 Deepening my JavaScript knowledge
 * 🎨 Building modern and responsive user interfaces
-* 🚀 Working on real-world frontend projects
 * 🔧 Exploring Backend Development
-* 🎯 Long-term goal: Become a skilled Full-Stack Developer with a strong focus on Backend Development
+* 🗄️ Learning about APIs and databases
+* 🎯 Working towards Full-Stack Development
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirHosseinRostayi&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinRostayi&layout=compact&theme=radical" height="170" />
-</p>
+<div align="center">
 
----
+I'm always open to **learning, collaboration, and new opportunities**.
 
-## 🤝 Connect With Me
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amirhossein-rostayi-0a7442317/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/arweb_academy/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/amirhossein-rostayi-0a7442317/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/arweb_academy/)
+
+</div>
 
 ---
+
+<div align="center">
 
 ### 💡 Always Learning. Always Building.
 
-I'm always open to learning, collaboration, and new opportunities.
+⭐ If you like my work, feel free to explore my repositories and leave a star!
 
-⭐ If you like my projects, feel free to check them out and leave a star!
+</div>
