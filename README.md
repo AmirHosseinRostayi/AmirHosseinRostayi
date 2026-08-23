@@ -48,8 +48,6 @@ I enjoy turning ideas into functional user experiences while continuously improv
 
 ## ⚡ GitHub Activity
 
-## `// GITHUB_ACTIVITY`
-
 <div align="center">
 
 <picture>
@@ -73,7 +71,37 @@ I enjoy turning ideas into functional user experiences while continuously improv
 
 </div>
 
-## 🚀 Featured Projects
+## `// FEATURED_PROJECTS`
+
+<div align="center">
+
+<a href="https://github.com/AmirHosseinRostayi/engineering-portfolio">
+  <img
+    src="./project-cards/engineering-portfolio.svg"
+    width="48%"
+    alt="Engineering Portfolio"
+  />
+</a>
+
+<a href="https://github.com/AmirHosseinRostayi/Project-AI">
+  <img
+    src="./project-cards/project-ai.svg"
+    width="48%"
+    alt="Project AI"
+  />
+</a>
+
+<br><br>
+
+<a href="https://github.com/AmirHosseinRostayi/Mini-Code">
+  <img
+    src="./project-cards/mini-code.svg"
+    width="48%"
+    alt="Mini Code"
+  />
+</a>
+
+</div>
 
 ### 💼 Engineering Portfolio
 
